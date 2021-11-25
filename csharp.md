@@ -1,7 +1,7 @@
 # Alexis Daniel's Tecnologias .NET projects! 👋
 
 
-`Brian Kernigan; Controlar la complejidad es la esencia de la programación.`<br><em> Yo soy solo un **Aventurado** programador, **Futuro ingeniero en software**, **backend developer**, **#MachineLearning**, Lo generico y dinamico es mi pación ✨</em>
+`Brian Kernigan; Controlar la complejidad es la esencia de la programación.`<br><em> Yo soy solo soy un **Aventurado** programador, futuro **Ingeniero en software**, entusiasta del **backend developer**, Lo generico y dinamico es mi pasión ✨</em>
 
 
 <p align="center">
@@ -46,5 +46,5 @@
 </p>
 
 
-###### [* This is an autogenerate readme](https://github.com/HectorPulido/HectorPulido/tree/master/ReadmeGenerator)
+###### [Esto es un autogenerado readme](https://github.com/HectorPulido/HectorPulido/tree/master/ReadmeGenerator)
 
