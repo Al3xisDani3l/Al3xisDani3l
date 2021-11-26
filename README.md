@@ -43,12 +43,10 @@
 
 <br>
 
-<p>
-<a href="#user-30538313-pinned-items-reorder-form">
-<img  src="https://github-readme-stats.vercel.app/api?username=Al3xisDani3l&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Alexis's Github Stats"/>
-  <img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al3xisDani3l&theme=vue-dark&layout=compact&hide=html"/>
+<a><img height="180em" alt="Al3xisDani3l's stats" src="https://github-readme-stats.vercel.app/api?username=Al3xisDani3l&theme=vue-dark&show_icons=true"/>
+<img height="180em" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Al3xisDani3l&theme=vue-dark&layout=compact&hide=html"/>
 </a>
-</p>
+
 
 <div align="center">
 <h3 align="center">Contactame 😋</h3>
