@@ -18,15 +18,20 @@
 
 
 ## Tech Stack ⌨
-- C# 9.0 ⭐⭐
-- .NET 6 | .NET Core | .NET Standart ⭐
-- Rest API's | ASP.NET Web API's ⭐
-- UWP | WPF | Windows Form ⭐
-- C++ | Python | C ⭐
-- Entity Framework Core ⭐
-- SQL Server | PostgreSQL | MySQL | and SQLite ⭐
-- ML.NET ⭐
-- Arduino 
+- C# 9.0 |⭐⭐⭐
+- .NET 6 |⭐⭐⭐ 
+- .NET Core | ⭐⭐⭐
+- .NET Standart |⭐⭐⭐
+- Rest API's |⭐⭐⭐
+- ASP.NET Web API's |⭐⭐⭐⭐
+- UWP |⭐⭐
+- WPF |⭐⭐
+- Windows Form |⭐⭐
+- C++ | Python | C |⭐
+- Entity Framework Core |⭐⭐⭐
+- SQL Server | PostgreSQL | MySQL | and SQLite |⭐
+- ML.NET | |⭐
+- Arduino |⭐
 
 
 ## Awesome Projects 📚
@@ -45,7 +50,7 @@
 </p>
 
 <div align="center">
-<h3 align="center">Let's connect 😋</h3>
+<h3 align="center">Contactame 😋</h3>
 </div>
 <p align="center">
 <a href="https://www.facebook.com/leitecmx" target="blank">
@@ -60,5 +65,5 @@
 </p>
 
 
-###### [Esto es un autogenerado readme](https://github.com/HectorPulido/HectorPulido/tree/master/ReadmeGenerator)
+###### [Esto es un readme autogenerado 😉](https://github.com/HectorPulido/HectorPulido/tree/master/ReadmeGenerator)
 
