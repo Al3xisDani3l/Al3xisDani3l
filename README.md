@@ -13,7 +13,7 @@
 
 
 <a href="https://twitter.com/Al3xisDani3l">
-<img align="right" height="auto" width="200" src="https://github.com/Al3xisDani3l/Al3xisDani3l/raw/master/img/LeitecMx-circle.png"/>
+<img align="right" height="auto" width="200" src="https://github.com/Al3xisDani3l/Al3xisDani3l/raw/master/img/Threedlex.png"/>
 </a>
 
 
@@ -52,8 +52,8 @@
 <h3 align="center">Contactame 😋</h3>
 </div>
 <p align="center">
-<a href="https://www.facebook.com/leitecmx" target="blank">
-<img align="center" width="30px" alt="LeitecMx" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"/></a> &nbsp; &nbsp;
+<a href="https://www.facebook.com/Threedlex" target="blank">
+<img align="center" width="30px" alt="Threedlex" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"/></a> &nbsp; &nbsp;
 <a href="www.linkedin.com/in/Al3xisDani3l/" target="blank">
 <img align="center" width="30px" alt="Alexis's LinkedIn" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"/></a> &nbsp; &nbsp;
 <a href="https://twitter.com/Al3xisDani3l" target="blank">
