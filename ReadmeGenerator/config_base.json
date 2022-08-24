@@ -8,6 +8,23 @@
                     "name":".Net Technologies",
                     "emoji":"🦄",
                     "tag":"csharp"
+                }
+                ,
+                { 
+                    "name":"Proyects",
+                    "emoji":"💻",
+                     "tag":"project"
+                }
+                ,
+                {
+                    "name": "API's",
+                    "emoji": "🕸",
+                    "tag": "api"
+                },
+                { 
+                    "name":"Education",
+                    "emoji":"📚",
+                     "tag":"education"
                 },
                 { 
                     "name":"Tools",
@@ -15,15 +32,11 @@
                      "tag":"tools"
                 },
                 {
-                    "name": "AI",
+                    "name": "IA",
                     "emoji": "🤖",
-                    "tag": "ai"
-                },              
-                {
-                    "name": "Backend",
-                    "emoji": "💻",
-                    "tag": "backend"
-                }
+                    "tag": "ia"
+                }            
+               
             ]
         }
     },

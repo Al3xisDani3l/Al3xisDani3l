@@ -44,11 +44,7 @@ jobs:
           git config --local user.name "GitHub Action"
           git commit -m 'deploy' 
         
-      # Set directories safe
-      - name: All directories safe
-        run: |
-          git config --global --add safe.directory '*'
-
+        
       # Upload static files to master
       - name: Force push to master
         uses: ad-m/github-push-action@master
