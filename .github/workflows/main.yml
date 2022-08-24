@@ -38,12 +38,16 @@ jobs:
           cd ..
           
       - name: Commit changes
-        run: |
-          git config --global --add safe.directory /github/workspace
+        run: |        
           git add -A
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git commit -m 'deploy' 
+        
+      # Set directories safe
+      - name: All directories safe
+        run: |
+          git config --global --add safe.directory '*'
 
       # Upload static files to master
       - name: Force push to master
@@ -54,7 +58,7 @@ jobs:
           force: true
           directory: ./
           
-          # Upload static files to master
+       # Upload static files to master
       - name: Force push to main
         uses: ad-m/github-push-action@v0.5.0
         with:
