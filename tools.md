@@ -1,4 +1,4 @@
-# Alexis Daniel's .Net Technologies projects! 👋
+# Alexis Daniel's Tools projects! 👋
 
 
 `Brian Kernigan; Controlar la complejidad es la esencia de la programación.`<br><em> Yo soy solo soy un **Aventurado** programador, futuro **Ingeniero en software**, entusiasta del **backend developer**, Lo generico y dinamico es mi pasión ✨</em>
@@ -17,12 +17,7 @@
 </a>
 
 
-## .Net Technologies Projects 🦄
-- [Zotero references converter  🦄](https://github.com/Al3xisDani3l/Zotero-references-converter) 
-- [Registro de errores zrp1  🦄](https://github.com/Al3xisDani3l/Registro-de-errores-ZRP1) 
-- [Helplibrary.uwp.connectios  🦄](https://github.com/Al3xisDani3l/HelpLibrary.UWP.Connectios) 
-- [Consultacore  🦄](https://github.com/Al3xisDani3l/ConsultaCore) 
-- [Nitralon interfaz  🦄 🤖](https://github.com/Al3xisDani3l/Nitralon-Interfaz) 
+## Tools Projects 🔧
 
 
 

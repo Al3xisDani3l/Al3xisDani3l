@@ -1,12 +1,12 @@
-# Hola, soy Alexis bienvenido a mi repositorio! 👋
+# Hi, I'm Alexis welcome to my repository! 👋
 
 
-`Brian Kernigan; Controlar la complejidad es la esencia de la programación.`<br><em> Yo soy solo soy un **Aventurado** programador, futuro **Ingeniero en software**, entusiasta del **backend developer**, Lo generico y dinamico es mi pasión ✨</em>
+`Brian Kernigan; Controlling complexity is the essence of programming.`<br><em> I'm just an **Adventurous** programmer, future **Software engineer**, **backend developer** enthusiast, Generic and dynamic is my passion ✨</em>
 
 
 <p align="center">
 <a href="https://github.com/Al3xisDani3l/Al3xisDani3l/blob/master/csharp.md">🦄</a>
-<a href="https://github.com/Al3xisDani3l/Al3xisDani3l/blob/master/utilities.md">🔧</a>
+<a href="https://github.com/Al3xisDani3l/Al3xisDani3l/blob/master/tools.md">🔧</a>
 <a href="https://github.com/Al3xisDani3l/Al3xisDani3l/blob/master/ai.md">🤖</a>
 <a href="https://github.com/Al3xisDani3l/Al3xisDani3l/blob/master/backend.md">💻</a>
 </p>
@@ -18,26 +18,26 @@
 
 
 ## Tech Stack ⌨
-- C# 9.0 |⭐⭐⭐
-- .NET 6 |⭐⭐⭐ 
-- .NET Core | ⭐⭐⭐
-- .NET Standart |⭐⭐⭐
-- Rest API's |⭐⭐⭐
-- ASP.NET Web API's |⭐⭐⭐⭐
-- UWP |⭐⭐
-- WPF |⭐⭐
-- Windows Form |⭐⭐
-- C++ | Python | C |⭐
-- Entity Framework Core |⭐⭐⭐
-- SQL Server | PostgreSQL | MySQL | and SQLite |⭐
-- ML.NET | |⭐
-- Arduino |⭐
+- C# 9.0 |⭐⭐⭐⭐⭐
+- .NET 6 |⭐⭐⭐⭐⭐ 
+- .NET Core | ⭐⭐⭐⭐⭐
+- .NET Standart |⭐⭐⭐⭐⭐
+- Rest API's |⭐⭐⭐⭐⭐
+- ASP.NET Web API's |⭐⭐⭐⭐⭐
+- Blazor |⭐⭐⭐
+- UWP |⭐⭐⭐⭐
+- WPF |⭐⭐⭐⭐
+- Windows Form |⭐⭐⭐⭐
+- C++ | Python | C |⭐⭐⭐
+- Entity Framework Core |⭐⭐⭐⭐
+- SQL Server | PostgreSQL | MySQL |  SQLite |⭐⭐⭐
+- ML.NET | ⭐⭐⭐
+- Arduino |⭐⭐⭐
 
 
 ## Awesome Projects 📚
-- [Registro de errores zrp1  🦄 🔧](https://github.com/Al3xisDani3l/Registro-de-errores-ZRP1) 
-- [Consultacore  🦄 🔧](https://github.com/Al3xisDani3l/ConsultaCore) 
-- [Commscopesolutions v2  🔧](https://github.com/Al3xisDani3l/CommscopeSolutions-V2) 
+- [Registro de errores zrp1  🦄](https://github.com/Al3xisDani3l/Registro-de-errores-ZRP1) 
+- [Consultacore  🦄](https://github.com/Al3xisDani3l/ConsultaCore) 
 
 
 
@@ -64,5 +64,5 @@
 </p>
 
 
-###### [Esto es un readme autogenerado 😉](https://github.com/HectorPulido/HectorPulido/tree/master/ReadmeGenerator)
+###### [This is an auto-generated readme 😉](https://github.com/HectorPulido/HectorPulido/tree/master/ReadmeGenerator)
 
