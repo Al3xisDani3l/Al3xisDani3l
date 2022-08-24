@@ -1,0 +1,71 @@
+[
+    {
+        "type": "intro",
+        "data": "Alexis Daniel's -category- projects! 👋"
+    },
+    {
+        "type": "description",
+        "data": "`Brian Kernigan; Controlar la complejidad es la esencia de la programación.`<br><em> Yo soy solo soy un **Aventurado** programador, futuro **Ingeniero en software**, entusiasta del **backend developer**, Lo generico y dinamico es mi pasión ✨</em>"
+    },
+    {
+        "type": "categories",
+        "data": {}
+    },
+    {
+        "type": "rightImage",
+        "data": {
+            "image": "https://github.com/Al3xisDani3l/Al3xisDani3l/raw/master/img/LeitecMx-circle.png",
+            "link": "https://twitter.com/Al3xisDani3l"
+        }
+    },
+    {
+        "type": "awesomeProjects",
+        "data": {
+            "title": "-category- Projects -emoji-",
+            "count": 9999,
+            "showEmojis": true,
+            "showScore": false,
+            "ignore_pinned": false
+        }
+    },
+    {
+        "type": "space",
+        "data": {}
+    },
+    {
+        "type": "space",
+        "data": {}
+    },
+    {
+        "type": "social",
+        "data": {
+            "title": "@<div align=\"center\">\n<h3 align=\"center\">Let's connect 😋</h3>\n</div>",
+            "social": [
+                {
+                    "alt":"LeitecMx",
+                    "url":"https://www.facebook.com/leitecmx",
+                    "image":"https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"
+                 },
+                 {
+                     "alt": "Alexis's LinkedIn",
+                     "url": "www.linkedin.com/in/Al3xisDani3l/",
+                     "image": "https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
+                 },
+                 {
+                     "alt": "alexis's Twitter",
+                     "url": "https://twitter.com/Al3xisDani3l",
+                     "image": "https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"
+                 },
+                 {
+                     "alt": "Alexis's Twitch",
+                     "url": "https://www.twitch.tv/Al3xisDani3l",
+                     "image": "https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg"
+                 }
+            ]
+        }
+    },
+    {
+        "type": "extra",
+        "data": "###### [Esto es un autogenerado readme](https://github.com/HectorPulido/HectorPulido/tree/master/ReadmeGenerator)"
+    }
+]

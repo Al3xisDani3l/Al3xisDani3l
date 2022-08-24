@@ -1,0 +1,122 @@
+[
+    {
+        "type": "config",
+        "data": {
+            "githubUser": "Al3xisDani3l",
+            "categories": [
+                {
+                    "name":".Net Technologies",
+                    "emoji":"🦄",
+                    "tag":"csharp"
+                },
+                { 
+                    "name":"Tools",
+                    "emoji":"🔧",
+                     "tag":"tools"
+                },
+                {
+                    "name": "AI",
+                    "emoji": "🤖",
+                    "tag": "ai"
+                },              
+                {
+                    "name": "Backend",
+                    "emoji": "💻",
+                    "tag": "backend"
+                }
+            ]
+        }
+    },
+    {
+        "type": "intro",
+        "data": "Hi, I'm Alexis welcome to my repository! 👋"
+    },
+    {
+        "type": "description",
+        "data": "`Brian Kernigan; Controlling complexity is the essence of programming.`<br><em> I'm just an **Adventurous** programmer, future **Software engineer**, **backend developer** enthusiast, Generic and dynamic is my passion ✨</em>"
+    },
+    {
+        "type": "categories",
+        "data": {}
+    },
+    {
+        "type": "rightImage",
+        "data": {
+            "image": "https://github.com/Al3xisDani3l/Al3xisDani3l/raw/master/img/Threedlex.png",
+            "link": "https://twitter.com/Al3xisDani3l"
+        }
+    },
+    {
+        "type": "techStack",
+        "data": {
+            "title": "Tech Stack ⌨",
+            "tech": [
+                "C# 9.0 |⭐⭐⭐⭐⭐",
+                ".NET 6 |⭐⭐⭐⭐⭐ ",
+                ".NET Core | ⭐⭐⭐⭐⭐",
+                ".NET Standart |⭐⭐⭐⭐⭐",
+                "Rest API's |⭐⭐⭐⭐⭐",
+                "ASP.NET Web API's |⭐⭐⭐⭐⭐",
+                "Blazor |⭐⭐⭐",
+                "UWP |⭐⭐⭐⭐",
+                "WPF |⭐⭐⭐⭐",
+                "Windows Form |⭐⭐⭐⭐",
+                "C++ | Python | C |⭐⭐⭐",
+                "Entity Framework Core |⭐⭐⭐⭐",
+                "SQL Server | PostgreSQL | MySQL |  SQLite |⭐⭐⭐",
+                "ML.NET | ⭐⭐⭐",               
+                "Arduino |⭐⭐⭐"
+            ]
+        }
+    },
+    {
+        "type": "awesomeProjects",
+        "data": {
+            "title": "Awesome Projects 📚",
+            "count": 9,
+            "showEmojis": true,
+            "showScore": false,
+            "ignore_pinned": true
+        }
+    },
+    {
+        "type": "space",
+        "data": {}
+    },
+    {
+        "type": "extra",
+        "data": "<a><img height=\"150em\" alt=\"Al3xisDani3l's stats\" src=\"https://github-readme-stats.vercel.app/api?username=Al3xisDani3l&theme=vue-dark&show_icons=true\"/>\n<img height=\"150em\" alt=\"Top Languages\" src=\"https://github-readme-stats.vercel.app/api/top-langs/?username=Al3xisDani3l&theme=vue-dark&layout=compact&hide=html\"/>\n</a>\n"
+    },
+    {
+        "type": "social",
+        "data": {
+            "title": "@<div align=\"center\">\n<h3 align=\"center\">Contactame 😋</h3>\n</div>",
+            "social": [
+                {
+                   "alt":"Threedlex",
+                   "url":"https://www.facebook.com/Threedlex",
+                   "image":"https://www.vectorlogo.zone/logos/facebook/facebook-official.svg"
+                },
+                {
+                    "alt": "Alexis's LinkedIn",
+                    "url": "www.linkedin.com/in/Al3xisDani3l/",
+                    "image": "https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
+                },
+                {
+                    "alt": "alexis's Twitter",
+                    "url": "https://twitter.com/Al3xisDani3l",
+                    "image": "https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"
+                },
+                {
+                    "alt": "Alexis's Twitch",
+                    "url": "https://www.twitch.tv/Al3xisDani3l",
+                    "image": "https://www.vectorlogo.zone/logos/twitch/twitch-icon.svg"
+                }
+            ]
+        }
+    },
+    {
+        "type": "extra",
+        "data": "###### [This is an auto-generated readme 😉](https://github.com/HectorPulido/HectorPulido/tree/master/ReadmeGenerator)"
+    }
+]
