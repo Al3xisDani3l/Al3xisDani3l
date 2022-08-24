@@ -51,7 +51,7 @@ jobs:
 
       # Upload static files to master
       - name: Force push to master
-        uses: aad-m/github-push-action@master
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
