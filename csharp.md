@@ -6,9 +6,11 @@
 
 <p align="center">
 <a href="https://github.com/Al3xisDani3l/Al3xisDani3l/blob/master/csharp.md">🦄</a>
+<a href="https://github.com/Al3xisDani3l/Al3xisDani3l/blob/master/project.md">💻</a>
+<a href="https://github.com/Al3xisDani3l/Al3xisDani3l/blob/master/api.md">🕸</a>
+<a href="https://github.com/Al3xisDani3l/Al3xisDani3l/blob/master/education.md">📚</a>
 <a href="https://github.com/Al3xisDani3l/Al3xisDani3l/blob/master/tools.md">🔧</a>
-<a href="https://github.com/Al3xisDani3l/Al3xisDani3l/blob/master/ai.md">🤖</a>
-<a href="https://github.com/Al3xisDani3l/Al3xisDani3l/blob/master/backend.md">💻</a>
+<a href="https://github.com/Al3xisDani3l/Al3xisDani3l/blob/master/ia.md">🤖</a>
 </p>
 
 
@@ -18,11 +20,14 @@
 
 
 ## .Net Technologies Projects 🦄
-- [Zotero references converter  🦄](https://github.com/Al3xisDani3l/Zotero-references-converter) 
-- [Registro de errores zrp1  🦄](https://github.com/Al3xisDani3l/Registro-de-errores-ZRP1) 
+- [Zotero references converter  🦄 🔧](https://github.com/Al3xisDani3l/Zotero-references-converter) 
+- [Lph  🦄 💻 🕸 📚](https://github.com/Al3xisDani3l/LPH) 
+- [Web_scraping  🦄 🔧](https://github.com/Al3xisDani3l/web_scraping) 
+- [Printmersion ti system  🦄 💻 🕸](https://github.com/Al3xisDani3l/PrintMersion-TI-System) 
+- [Registro de errores zrp1  🦄 💻](https://github.com/Al3xisDani3l/Registro-de-errores-ZRP1) 
 - [Helplibrary.uwp.connectios  🦄](https://github.com/Al3xisDani3l/HelpLibrary.UWP.Connectios) 
-- [Consultacore  🦄](https://github.com/Al3xisDani3l/ConsultaCore) 
-- [Nitralon interfaz  🦄 🤖](https://github.com/Al3xisDani3l/Nitralon-Interfaz) 
+- [Consultacore  🦄 🔧](https://github.com/Al3xisDani3l/ConsultaCore) 
+- [Nitralon interfaz  🦄 💻 🤖](https://github.com/Al3xisDani3l/Nitralon-Interfaz) 
 
 
 

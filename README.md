@@ -6,9 +6,11 @@
 
 <p align="center">
 <a href="https://github.com/Al3xisDani3l/Al3xisDani3l/blob/master/csharp.md">🦄</a>
+<a href="https://github.com/Al3xisDani3l/Al3xisDani3l/blob/master/project.md">💻</a>
+<a href="https://github.com/Al3xisDani3l/Al3xisDani3l/blob/master/api.md">🕸</a>
+<a href="https://github.com/Al3xisDani3l/Al3xisDani3l/blob/master/education.md">📚</a>
 <a href="https://github.com/Al3xisDani3l/Al3xisDani3l/blob/master/tools.md">🔧</a>
-<a href="https://github.com/Al3xisDani3l/Al3xisDani3l/blob/master/ai.md">🤖</a>
-<a href="https://github.com/Al3xisDani3l/Al3xisDani3l/blob/master/backend.md">💻</a>
+<a href="https://github.com/Al3xisDani3l/Al3xisDani3l/blob/master/ia.md">🤖</a>
 </p>
 
 
@@ -36,8 +38,15 @@
 
 
 ## Awesome Projects 📚
-- [Registro de errores zrp1  🦄](https://github.com/Al3xisDani3l/Registro-de-errores-ZRP1) 
-- [Consultacore  🦄](https://github.com/Al3xisDani3l/ConsultaCore) 
+- [Lph  🦄 💻 🕸 📚](https://github.com/Al3xisDani3l/LPH) 
+- [Web_scraping  🦄 🔧](https://github.com/Al3xisDani3l/web_scraping) 
+- [Registro de errores zrp1  🦄 💻](https://github.com/Al3xisDani3l/Registro-de-errores-ZRP1) 
+- [Consultacore  🦄 🔧](https://github.com/Al3xisDani3l/ConsultaCore) 
+- [Sistemas distribuidos  💻 📚](https://github.com/Al3xisDani3l/Sistemas-Distribuidos) 
+- [Pizzas uacj  💻 📚](https://github.com/Al3xisDani3l/Pizzas-UACJ) 
+- [Global getaways inc  🕸 📚 🤖](https://github.com/Al3xisDani3l/Global-Getaways-Inc) 
+- [Programacion ii  📚](https://github.com/Al3xisDani3l/Programacion-II) 
+- [Estructura de datos  📚](https://github.com/Al3xisDani3l/Estructura-de-datos) 
 
 
 

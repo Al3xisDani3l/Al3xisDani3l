@@ -1,4 +1,4 @@
-# Alexis Daniel's Tools projects! 👋
+# Alexis Daniel's Education projects! 👋
 
 
 `Brian Kernigan; Controlar la complejidad es la esencia de la programación.`<br><em> Yo soy solo soy un **Aventurado** programador, futuro **Ingeniero en software**, entusiasta del **backend developer**, Lo generico y dinamico es mi pasión ✨</em>
@@ -19,10 +19,13 @@
 </a>
 
 
-## Tools Projects 🔧
-- [Zotero references converter  🦄 🔧](https://github.com/Al3xisDani3l/Zotero-references-converter) 
-- [Web_scraping  🦄 🔧](https://github.com/Al3xisDani3l/web_scraping) 
-- [Consultacore  🦄 🔧](https://github.com/Al3xisDani3l/ConsultaCore) 
+## Education Projects 📚
+- [Lph  🦄 💻 🕸 📚](https://github.com/Al3xisDani3l/LPH) 
+- [Sistemas distribuidos  💻 📚](https://github.com/Al3xisDani3l/Sistemas-Distribuidos) 
+- [Pizzas uacj  💻 📚](https://github.com/Al3xisDani3l/Pizzas-UACJ) 
+- [Global getaways inc  🕸 📚 🤖](https://github.com/Al3xisDani3l/Global-Getaways-Inc) 
+- [Programacion ii  📚](https://github.com/Al3xisDani3l/Programacion-II) 
+- [Estructura de datos  📚](https://github.com/Al3xisDani3l/Estructura-de-datos) 
 
 
 
