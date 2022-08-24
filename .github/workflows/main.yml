@@ -39,6 +39,7 @@ jobs:
           
       - name: Commit changes
         run: |
+          git config –-global –-add safe.directory '*'
           git add -A
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
