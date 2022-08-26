@@ -11,7 +11,7 @@
 <a href="https://github.com/Al3xisDani3l/Al3xisDani3l/blob/master/education.md">📚</a>
 <a href="https://github.com/Al3xisDani3l/Al3xisDani3l/blob/master/tools.md">🔧</a>
 <a href="https://github.com/Al3xisDani3l/Al3xisDani3l/blob/master/ia.md">🤖</a>
-<a href="https://github.com/Al3xisDani3l/Al3xisDani3l/blob/master/help.md">🤖</a>
+<a href="https://github.com/Al3xisDani3l/Al3xisDani3l/blob/master/help.md">🤝</a>
 </p>
 
 
@@ -20,8 +20,8 @@
 </a>
 
 
-## contribution Projects 🤖
-- [Helplibrary.uwp.connectios  🦄 🤖](https://github.com/Al3xisDani3l/HelpLibrary.UWP.Connectios) 
+## contribution Projects 🤝
+- [Helplibrary.uwp.connectios  🦄 🤝](https://github.com/Al3xisDani3l/HelpLibrary.UWP.Connectios) 
 
 
 
