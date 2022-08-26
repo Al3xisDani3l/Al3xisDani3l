@@ -1,4 +1,4 @@
-# Alexis Daniel's IA projects! 👋
+# Alexis Daniel's contribution projects! 👋
 
 
 `Brian Kernigan; Controlar la complejidad es la esencia de la programación.`<br><em> Yo soy solo soy un **Aventurado** programador, futuro **Ingeniero en software**, entusiasta del **backend developer**, Lo generico y dinamico es mi pasión ✨</em>
@@ -20,9 +20,8 @@
 </a>
 
 
-## IA Projects 🤖
-- [Nitralon interfaz  🦄 💻 🤖](https://github.com/Al3xisDani3l/Nitralon-Interfaz) 
-- [Global getaways inc  🕸 📚 🤖](https://github.com/Al3xisDani3l/Global-Getaways-Inc) 
+## contribution Projects 🤖
+- [Helplibrary.uwp.connectios  🦄 🤖](https://github.com/Al3xisDani3l/HelpLibrary.UWP.Connectios) 
 
 
 
