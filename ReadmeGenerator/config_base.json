@@ -35,7 +35,12 @@
                     "name": "IA",
                     "emoji": "🤖",
                     "tag": "ia"
-                }            
+                },
+                {
+                    "name": "contribution",
+                    "emoji": "🤖",
+                    "tag": "help"
+                }                 
                
             ]
         }
